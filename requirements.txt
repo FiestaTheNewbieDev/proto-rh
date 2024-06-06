@@ -1,0 +1,9 @@
+sqlalchemy
+sqlalchemy-utils
+psycopg2-binary
+pydantic
+fastapi
+pyjwt
+python-dotenv
+python-multipart
+Pillow

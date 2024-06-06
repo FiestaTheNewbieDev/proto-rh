@@ -1,0 +1,3 @@
+**/__pycache__
+assets/picture/profiles/*
+!assets/picture/profiles/pdp_base.png
