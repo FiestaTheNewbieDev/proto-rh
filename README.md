@@ -1,4 +1,7 @@
-# ProtoRH
+![ETNA](https://etna.io/wp-content/themes/etna-refonte-theme/assets/images/logo-etna.png)
+<h1 align="center">ProtoRH</h1>
+
+![Python](https://img.shields.io/badge/Python-grey?style=flat-square&logo=python)
 
 ## Sommaire
 1. [Installations](#installations)
@@ -28,6 +31,7 @@
         2. [/rh/msg/remove](#rhmsgremove)
         3. [/rh/msg/update](#rhmsgupdate)
         4. [/rh/msg](#rhmsg)
+    6. [Auteurs](#auteurs)
 ___
 
 ## Installations
@@ -597,3 +601,6 @@ curl -X GET -H "Authorization: Bearer {jwt}" http://{server_IP}/rh/msg/
 ```bash
 bash tests/get_requests_rh.sh
 ```
+
+## Auteurs
+[**Clément FOSSORIER**](https://github.com/FiestaTheNewbieDev) & [**Vincent CHIGOT**](https://github.com/Vincentgithubb)
