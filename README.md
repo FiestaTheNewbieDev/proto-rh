@@ -31,8 +31,7 @@
         2. [/rh/msg/remove](#rhmsgremove)
         3. [/rh/msg/update](#rhmsgupdate)
         4. [/rh/msg](#rhmsg)
-    6. [Auteurs](#auteurs)
-___
+6. [Auteurs](#auteurs)
 
 ## Installations
 
